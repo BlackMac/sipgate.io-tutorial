@@ -2,12 +2,12 @@
 
 ## Lokal auf dem eigenen Rechner entwickeln
 
-Die lokale entwicklung ist vergleichsweise kompliziert zu konfigurieren.
+Die lokale Entwicklung ist vergleichsweise kompliziert zu konfigurieren.
 Einfacher ist es direkt die [Online IDE Cloud9](#cloud9) zu verwenden.
 
 ### Meteor installieren
 
-Um die neueste Version von meteor unter Linux und Mac OS X zu installieren öffnest du eine Kommandozeile und führst folgenden Befehl aus:
+Um die neueste Version von Meteor unter Linux und Mac OS X zu installieren öffnest du eine Kommandozeile und führst folgenden Befehl aus:
 
     curl https://install.meteor.com/ | sh
 
@@ -33,7 +33,7 @@ Browser kopierst.
 
 ### Zugriff von Aussen
 
-Damit sipgate.io deinen Webservice auch ansprechen kann muss dein Projekt
+Damit [sipgate.io](http://sipgate.io) deinen Webservice auch ansprechen kann muss dein Projekt
 aus dem Internet erreichbar sein. Das kann zwar mit Hilfe von
 Portweiterleitungen erreicht werden, diese einzurichten ist aber oft kompliziert.
 Eine bequemere Alternative sind [Tunneldienste](http://www.sitepoint.com/accessing-localhost-from-anywhere/).
